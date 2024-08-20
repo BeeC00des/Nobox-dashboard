@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Next.js App Router Course - Starter for full stack application
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application with nobox-core for data management.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+For more information about nobox, see the [Nobox Docs](https://www.docs.nobox.cloud/) on the Next.js Website.
